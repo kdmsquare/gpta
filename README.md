@@ -1,3 +1,4 @@
 # gpta
-rama went to forest <br>
-and he bring a sweeet mango for seeetha   
+Rama went to forest <br>
+and he bought a sweet mango to seetha <br>  
+this kullraj
